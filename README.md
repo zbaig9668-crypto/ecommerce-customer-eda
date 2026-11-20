@@ -20,7 +20,7 @@ streamlit run app.py
 ```
 
 ## Live app
-Add your deployed Streamlit URL here after deployment: `PASTE_YOUR_STREAMLIT_APP_LINK_HERE`
+https://ecommerce-customer-eda.streamlit.app/
 
 ## Dataset
 The CSV was provided for this project and is included in the repository as `ecommerce_customers.csv`.
